@@ -32,4 +32,4 @@ del package-lock.json
 npm cache clean --force
 npm install
 
-2. start project - npm start
+2. start project - npm run dev
