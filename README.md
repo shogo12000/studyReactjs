@@ -25,4 +25,11 @@ This is an educational website built with **React.js**, featuring sections like 
 
 
 1. install dependencies - npm install
+
+if doesnt work need try this...
+rd /s /q node_modules
+del package-lock.json
+npm cache clean --force
+npm install
+
 2. start project - npm start
