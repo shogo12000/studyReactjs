@@ -33,3 +33,5 @@ npm cache clean --force
 npm install
 
 2. start project - npm run dev
+
+https://firstreactjs-fl87xql9h-shogo12000s-projects.vercel.app/
